@@ -1,0 +1,15 @@
+eclipse.preferences.version=1
+encoding//src/Exercise01_String.java=UTF-8
+encoding//src/Source01_String.java=UTF-8
+encoding//src/Source02_String.java=UTF-8
+encoding//src/Source03_String.java=UTF-8
+encoding//src/Source04_Regex.java=UTF-8
+encoding//src/Source05_Regex.java=UTF-8
+encoding//src/Source06_StringBuilder.java=UTF-8
+encoding//src/Source07_StringBuilder.java=UTF-8
+encoding//src/model/HangmanMain.java=UTF-8
+encoding//src/model/HangmanWord.java=UTF-8
+encoding//src/model/HangmanWordTest.java=UTF-8
+encoding//src/model/Idiom.java=UTF-8
+encoding//src/model/IdiomTest.java=UTF-8
+separateDerivedEncodings=true
